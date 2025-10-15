@@ -52,3 +52,13 @@ Lenguaje DAX
 Microsoft Excel / CSV
 
 GitHub (para documentación y versionado)
+
+📈 Insights Principales
+
+📊 Las notebooks representan el mayor ingreso y margen de ganancia.
+
+🧭 Buenos Aires concentra la mayoría de las ventas.
+
+👥 El 40% de los clientes realizaron más de una compra.
+
+📆 Febrero y marzo muestran un crecimiento sostenido en ventas.
