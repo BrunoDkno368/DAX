@@ -62,3 +62,9 @@ GitHub (para documentación y versionado)
 👥 El 40% de los clientes realizaron más de una compra.
 
 📆 Febrero y marzo muestran un crecimiento sostenido en ventas.
+
+👨‍💻 Autor
+
+Bruno Roberto Argañaraz
+Analista de Datos | Power BI | SQL | Python
+📧 [www.linkedin.com/in/bruno-arga%C3%B1araz-726a4a199/]
