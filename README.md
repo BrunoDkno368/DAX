@@ -67,4 +67,4 @@ GitHub (para documentación y versionado)
 
 Bruno Roberto Argañaraz
 Analista de Datos | Power BI | SQL | Python
-📧 [www.linkedin.com/in/bruno-arga%C3%B1araz-726a4a199/]
+📧 www.linkedin.com/in/bruno-argañaraz-726a4a199/
